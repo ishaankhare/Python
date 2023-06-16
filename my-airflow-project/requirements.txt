@@ -1,8 +1,0 @@
-matplotlib
-med2image
-nibabel
-pillow
-pydicom
-apache-airflow-providers-amazon
-apache-airflow-providers-slack
-lxml
